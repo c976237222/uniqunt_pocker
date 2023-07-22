@@ -1,0 +1,66 @@
+join_rooms:
+- pin: '123'
+  rid: sVO3ILW1
+test_users:
+- password: 5jCghW8i
+  username: p_15010502448
+- password: 5jCghW8i
+  username: p_15010502448_player1
+- password: 5jCghW8i
+  username: p_15010502448_player2
+- password: 5jCghW8i
+  username: p_15010502448_player3
+- password: 5jCghW8i
+  username: p_15010502448_player4
+- password: 5jCghW8i
+  username: p_15010502448_player5
+- password: 5jCghW8i
+  username: p_15010502448_player6
+
+
+python p0.py >> log/room1.txt
+['4uLXKU0w', '3lVgVwEh', 'spf0SzMM', 'jczfTPV8', 'KgiZ2IZz', 'pxx5p55D', 'forMSSHV', 'qdquVuEk', 'vW0swsx7', 't7uDc2OJ']
+
+  rid: 4uLXKU0w 
+- pin: qwe
+  rid: 3lVgVwEh
+- pin: qwe
+  rid: spf0SzMM
+- pin: qwe
+  rid: jczfTPV8
+- pin: qwe
+  rid: KgiZ2IZz
+- pin: qwe
+  rid: pxx5p55D
+- pin: qwe
+  rid: forMSSHV
+- pin: qwe
+  rid: qdquVuEk
+- pin: qwe
+  rid: vW0swsx7
+- pin: qwe
+  rid: t7uDc2OJ
+
+
+
+
+  - pin: qwe
+  rid: 'EO2pJV2C'
+- pin: qwe
+  rid: 'Dswepd38'
+- pin: qwe
+  rid: 'npPpfAKR'
+- pin: qwe
+  rid: '6tCvmZEC'
+- pin: qwe
+  rid: 'IbEW06so'
+- pin: qwe
+  rid: 'Oo6ZYuey'
+- pin: qwe
+  rid: 'aflCNLEi'
+- pin: qwe
+  rid: 'wv2pm1EF'
+- pin: qwe
+  rid: 'I4jL6I9I'
+- pin: qwe
+  rid: 'Vs4Xgot7'

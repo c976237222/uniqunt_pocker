@@ -1,0 +1,30 @@
+join_rooms:
+- pin: qwe
+  rid: CtiB5wek
+
+test_users:
+- password: 9HQYzRdT
+  username: p_18945421836
+- password: 9HQYzRdT
+  username: p_18945421836_player1
+- password: 9HQYzRdT
+  username: p_18945421836_player2
+- password: 9HQYzRdT
+  username: p_18945421836_player3
+- password: 9HQYzRdT
+  username: p_18945421836_player4
+- password: 9HQYzRdT
+  username: p_18945421836_player5
+
+# - password: 5jCghW8i
+#   username: p_15010502448_player1
+# - password: 5jCghW8i
+#   username: p_15010502448_player2
+# - password: 5jCghW8i
+#   username: p_15010502448_player3
+# - password: 5jCghW8i
+#   username: p_15010502448_player4
+# - password: 5jCghW8i
+#   username: p_15010502448_player5
+# - password: 5jCghW8i
+#   username: p_15010502448_player6

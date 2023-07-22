@@ -1,0 +1,7 @@
+1. 提取出每个位置的open范围、call open范围
+2. 提取出3B范围、call 3B范围
+3. 4b、call 4B范围
+4. 5b、call 5B范围
+5. 6bet只ALLIN AA
+
+
